@@ -1,2 +1,0 @@
-functionjs
-index.html
